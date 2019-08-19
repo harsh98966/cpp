@@ -9,8 +9,6 @@ double number1;
 int number;
 std::vector<int> base {2,8,10,16};
 bool stop = false;
-
-
 void Decdivide(int base);
 void print(int base);
 
