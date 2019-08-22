@@ -23,7 +23,6 @@ cin >> number1;											//it takes decimal number from user like 555.55
 number = int(number1);									//converts decimal number to int number like 555.55 to 555
 const int number2 = number;								//used to store int number value bcz it gets changed in decdivide function  ##
 cout << endl;
-cout << "number 1 = " << number1 << endl;
 
 
 
